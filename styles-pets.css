@@ -1,0 +1,23 @@
+.hero-bg {
+    /* vasakul tume paremal foto */
+
+    background-color: #232627;
+    color: #EAD5AC;
+    background-image: url(img/karmoska-tsaika.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50%;
+}
+
+.secondary-bg {
+    background-color: #EAD5AC;
+}
+
+.featured-products p {
+    margin-bottom: 0;
+}
+
+.featured-products button {
+    margin-top: 1rem;
+}
+
